@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "PHPStanClone\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "3.4.33"
+    }
+}
